@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Singh Rawat</h1>
 <h3 align="center">Full-stck developer and passionate about machine learing</h3>
-‹img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhrawat&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhrawat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhrawat" alt="anirudhrawat" /></a> </p>
