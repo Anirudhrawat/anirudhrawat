@@ -12,6 +12,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Anirudhrawat/Anirudhrawat/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">My name is Ani. The GIF you see above is from the movie Gravity, one of my favorite films directed by Alfonso Cuarón. This specific scene captures a moment of both beauty and peril, reflecting the character's isolation and vulnerability. It also resonates with the challenges faced in coding and problem-solving—navigating difficult situations with limited resources and relying on skill, creativity, and determination to find a way through.</p>
 
 ###
