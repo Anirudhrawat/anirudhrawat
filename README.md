@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <p>Welcome to my</p> <img src="https://profile-counter.glitch.me/Anirudhrawat/count.svg?"  /> <p>Viewer</p>
+  <p>Total Views</p> <img src="https://profile-counter.glitch.me/Anirudhrawat/count.svg?"  />
 </div>
 
 ###
